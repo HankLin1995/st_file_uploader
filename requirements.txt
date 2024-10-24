@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pypdfium2
+requests
